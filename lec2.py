@@ -32,6 +32,7 @@ lec2
 #print(my_float)
 
 #print(my_float + 1)
-
-_my_int = 123
-print('_my_int')
+_my_str = 'hedgehog'
+print(_my_str)
+_my_str = 'Julia loves ice cream sandwiches'
+print(_my_str)
