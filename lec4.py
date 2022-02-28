@@ -33,3 +33,7 @@ print(my_car.get('year'))
 my_car['model'] = 'Corolla'
 print(my_car['model'])
 print(my_car)
+
+print (len(('this is a string').split()))
+lambda = 1
+print(lambda)

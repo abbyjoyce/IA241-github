@@ -49,4 +49,3 @@ print('US' in my_tweet["visited_countries"])
 
 my_tweet['coordinates'] = (-81,45)
 print(my_tweet)
-
